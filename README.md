@@ -1,8 +1,10 @@
-# Monitoring Tool Mark 2
+# Monitoring Engine
 
-Python-based monitoring system with collection, judgment, detection, alerting, evidence capture, and post-analysis.
+Python-based security monitoring engine that performs log analysis, anomaly detection,
+risk evaluation, alerting, and evidence storage.
 
 ## Run
+
 ```bash
-cd app/src
-python -m monitoring_tool.main
+cd src
+python -m monitoring_engine.main
